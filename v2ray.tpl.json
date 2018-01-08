@@ -4,17 +4,15 @@
     "error": "/var/log/v2ray/error.log",
     "loglevel": "warning"
   },
-  "inbound":[
-    {
-      "protocol": "shadowsocks",
-      "port": 3003,
-      "settings": {
-        "method": "aes-256-cfb",
-        "ota": false,
-        "password": "__pass__"
-      }
+  "inbound":{
+    "protocol": "shadowsocks",
+    "port": 3003,
+    "settings": {
+      "method": "aes-256-cfb",
+      "ota": false,
+      "password": "__pass__"
     }
-  ],
+  },
   "outbound": {
     "protocol": "freedom",
     "settings": {}
