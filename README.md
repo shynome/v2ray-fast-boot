@@ -24,12 +24,13 @@ ps: 下载时注意往下滚动选择带绿色边框的`Latest release`的稳定
 
 ## Google Chrome (谷歌浏览器)
 
-谷歌浏览器官方下载地址 - [https://www.google.cn/chrome/browser/desktop/index.html?standalone=1]()
-谷歌浏览器百度下载地址 - [http://rj.baidu.com/soft/detail/14744.html?ald]()
+- 谷歌浏览器官方下载地址 - [https://www.google.cn/chrome/browser/desktop/index.html?standalone=1]()
+- 谷歌浏览器百度下载地址 - [http://rj.baidu.com/soft/detail/14744.html?ald]()
 
 使用 [ `SwitchyOmega` 软件](https://github.com/FelisCatus/SwitchyOmega) 
 和网友提供的翻墙规则 `https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt` 
 可以轻松访问 [谷歌](https://www.google.com) , [youtube](https://www.youtube.com/) 网站
+
 点击这里查看百度提供的`SwitchyOmega`安装教程 [https://jingyan.baidu.com/article/11c17a2c121c0ff446e39d16.html]()
 
 -----------------------
@@ -66,6 +67,6 @@ aws 服务器安全组端口默认只开放 22 端口进行 ssh 连接, 需要�
 
 使用方式
 ```bash
-
+wget 
 ```
 
