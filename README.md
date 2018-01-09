@@ -68,7 +68,7 @@ aws 服务器安全组端口默认只开放 22 端口进行 ssh 连接, 需要�
 使用方式
 
 ```bash
-wget -q -O - https://raw.githubusercontent.com/shynome/fuck-gfw/master/init.sh | bash
+wget -q -O - https://raw.githubusercontent.com/shynome/v2ray-fast-boot/master/init.sh | bash
 ```
 
 `ss` 默认协议端口是 `3003` , 也可以自己更换
