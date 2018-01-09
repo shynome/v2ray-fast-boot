@@ -41,11 +41,11 @@ ps: 下载时注意往下滚动选择带绿色边框的`Latest release`的稳定
 
 | 名字         | 支持协议                                    | 下载地址
 | ------------ | ------------------------------------------- | -------
-| Kitsunebi    | VMess \| Shadowsocks                        | [ITunes](https://www.v2ray.com/itunes/us/kitsunebi/id1275446921/)
-| Shadowrocket | 支持众多协议如: Shadowsocks \| VMess \| SSR | [iTunes](https://www.v2ray.com/itunes/us/shadowrocket/id932747118/)
+| Kitsunebi    | VMess & Shadowsocks                         | [ITunes](https://www.v2ray.com/itunes/us/kitsunebi/id1275446921/)
+| Shadowrocket | 支持众多协议如: Shadowsocks & VMess & SSR | [iTunes](https://www.v2ray.com/itunes/us/shadowrocket/id932747118/)
 | ShadowRay    | 只支持 VMess , 不建议选择                   | [iTunes](https://www.v2ray.com/itunes/us/shadowray/id1283082051/)
 
-如果需要更详细的信息, 这里有个官方ios客户端介绍链接 [https://www.v2ray.com/ui_client/ios.html]()
+如果需要更详细的信息, 这里有个v2ray官方ios客户端介绍链接 [https://www.v2ray.com/ui_client/ios.html]()
 
 -----------------------
 
