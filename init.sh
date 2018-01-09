@@ -11,7 +11,7 @@ wget -q -O - https://toutyrater.github.io/install-release.sh | bash
 pass=$(wget -q -O - http://shynome.com/lightservices/passgen)
 
 # wget -O v2ray.tpl.json 
-tpl=$(wget -q -O - https://raw.githubusercontent.com/shynome/fuck-gfw/master/v2ray.tpl.json)
+tpl=$(wget -q -O - https://raw.githubusercontent.com/shynome/v2ray-fast-boot/master/v2ray.tpl.json)
 
 v2ray_config=${tpl/\_\_pass\_\_/$pass}
 
