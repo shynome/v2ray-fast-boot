@@ -8,7 +8,7 @@ fi
 wget -q -O - https://toutyrater.github.io/install-release.sh | bash 
 
 # 生成强密码
-pass=$(wget -q -O - http://shynome.com/lightservices/passgen)
+pass=$(openssl rand -base64 16)
 
 # wget -O v2ray.tpl.json 
 tpl=$(wget -q -O - https://raw.githubusercontent.com/shynome/v2ray-fast-boot/master/v2ray.tpl.json)
