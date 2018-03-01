@@ -11,27 +11,27 @@
 ps: 下载时注意往下滚动选择带绿色边框的`Latest release`的稳定版本, 避免出现不必要的问题
 
 - Windows
-  - __下载地址__ [https://github.com/shadowsocks/shadowsocks-windows/releases]()
-  - __安装教程__ [https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E]() 
+  - __下载地址__ <https://github.com/shadowsocks/shadowsocks-windows/releases>
+  - __安装教程__ <https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E>
 - Android
-  - __下载地址__ [https://github.com/shadowsocks/shadowsocks-android/releases]()
+  - __下载地址__ <https://github.com/shadowsocks/shadowsocks-android/releases>
   - __安装教程__ 参考 `Windows` 版本的吧, 毕竟只是配置一下服务器就好了
 - Mac
-  - __下载地址__ [https://github.com/shadowsocks/ShadowsocksX-NG/releases]()
+  - __下载地址__ <https://github.com/shadowsocks/ShadowsocksX-NG/releases>
   - __安装教程__ 同上,  参考 `Windows` 版本的配置教程
 
 ---------------------
 
 ## Google Chrome (谷歌浏览器)
 
-- 谷歌浏览器官方下载地址 - [https://www.google.cn/chrome/browser/desktop/index.html?standalone=1]()
-- 谷歌浏览器百度下载地址 - [http://rj.baidu.com/soft/detail/14744.html?ald]()
+- 谷歌浏览器官方下载地址 - <https://www.google.cn/chrome/browser/desktop/index.html?standalone=1>
+- 谷歌浏览器百度下载地址 - <http://rj.baidu.com/soft/detail/14744.html?ald>
 
-使用 [ `SwitchyOmega` 软件](https://github.com/FelisCatus/SwitchyOmega) 
+使用 [ `SwitchyOmega` 软件](https://github.com/FelisCatus/SwitchyOmega)
 和网友提供的翻墙规则 `https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt` 
 可以轻松访问 [谷歌](https://www.google.com) , [youtube](https://www.youtube.com/) 网站
 
-点击这里查看百度提供的`SwitchyOmega`安装教程 [https://jingyan.baidu.com/article/11c17a2c121c0ff446e39d16.html]()
+点击这里查看百度提供的`SwitchyOmega`安装教程 <https://jingyan.baidu.com/article/11c17a2c121c0ff446e39d16.html>
 
 -----------------------
 
@@ -45,7 +45,7 @@ ps: 下载时注意往下滚动选择带绿色边框的`Latest release`的稳定
 | Shadowrocket | 支持众多协议如: Shadowsocks & VMess & SSR | [iTunes](https://www.v2ray.com/itunes/us/shadowrocket/id932747118/)
 | ShadowRay    | 只支持 VMess , 不建议选择                   | [iTunes](https://www.v2ray.com/itunes/us/shadowray/id1283082051/)
 
-如果需要更详细的信息, 这里有个v2ray官方ios客户端介绍链接 [https://www.v2ray.com/ui_client/ios.html]()
+如果需要更详细的信息, 这里有个v2ray官方ios客户端介绍链接 <https://www.v2ray.com/ui_client/ios.html>
 
 -----------------------
 
