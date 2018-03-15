@@ -31,7 +31,7 @@ ps: 下载时注意往下滚动选择带绿色边框的`Latest release`的稳定
 和网友提供的翻墙规则 `https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt` 
 可以轻松访问 [谷歌](https://www.google.com) , [youtube](https://www.youtube.com/) 网站
 
-软件下载地址: <https://github.com/FelisCatus/SwitchyOmega/releases>
+这里是安装教程: <https://github.com/XX-net/XX-Net/wiki/%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8-SwitchyOmega>
 
 -----------------------
 
